@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-do-kdu",
+  "version": "1.0.0",
+  "description": "Nesse simples projeto de uma calculadora, exploro a infinidade de possibilidades que o **_CSS_** pode oferecer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kdulima/Calculadora-do-Kdu.git"
+  },
+  "author": "Carlos Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kdulima/Calculadora-do-Kdu/issues"
+  },
+  "homepage": "https://github.com/Kdulima/Calculadora-do-Kdu#readme"
+}

@@ -11,6 +11,17 @@ Como diferencial nesse projeto, utilizei a _lib_ **[Vanilla-tilt.js**](https://m
 - **_Manipular CSS_**
 - **_Manipular Javascript_**
 
+### 🚀 Clonando o projeto
+Abra um terminal e digite os seguintes comandos:
+```
+git clone git@github.com:Kdulima/Calculadora-do-Kdu.git
+
+cd Calculadora-do-Kdu.git
+
+npm install
+
+```
+
 ### 💻**Tecnologias utilizadas:**
 
   - **_HTML_**
